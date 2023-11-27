@@ -7,7 +7,7 @@ Simple Django app to display "Hello World!" in JSON and HTML formats.
 1. **Clone Repo**
 
    ```
-   git clone <this-url>
+   git clone https://github.com/Wasim1429/hello-world-django
    cd helloworld_project
    ```
 
